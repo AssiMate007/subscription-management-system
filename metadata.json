@@ -1,0 +1,6 @@
+{
+  "name": "Brightloop Subscription Management System",
+  "description": "Production-grade SaaS subscription management platform with automated recurring billing, quotation workflows, discount engine, invoices, payments, and multi-role access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
